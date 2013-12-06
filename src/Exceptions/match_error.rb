@@ -1,0 +1,2 @@
+class MatchError < StandardError
+end
